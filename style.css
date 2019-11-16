@@ -1,6 +1,6 @@
 /* Tag selector to select the 'body' element */
 body {
-  background: #00b3e6
+  background-color: #00b3e6
   /* Your code here! */
 }
 
@@ -8,7 +8,7 @@ body {
 div {
   width: 700px;
   margin:auto;
-  font-family: 
+  font-family:  
   /* Your code here! */
 }
 
